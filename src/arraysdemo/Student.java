@@ -7,6 +7,16 @@ public class Student {
     //commit use
     private String sId;
     private String sName;
+    private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+    
 
     public Student(String sId, String sName) {
         this.sId = sId;
@@ -21,7 +31,7 @@ public class Student {
 
     public void setsId(String sId) {
         this.sId = sId;
-    }
+    
 
     public String getsName() {
         return sName;

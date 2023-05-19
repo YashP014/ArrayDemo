@@ -30,7 +30,6 @@ public class Student {
 
     public void setsName(String sName) {
         this.sName = sName;
-        //4 time
     }
     
     

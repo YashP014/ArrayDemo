@@ -27,7 +27,7 @@ public class Student {
         return sName;
     }
     //Yash here
-
+    //friday
     public void setsName(String sName) {
         this.sName = sName;
     }

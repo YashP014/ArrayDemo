@@ -7,9 +7,6 @@
  *
  * @author yashp
  */
-public class tempDemps23 {
-    public static void main(String[] args) {
-        System.out.println("YAsh Patel");
-        System.out.println("");
-    }
+public class Week3 {
+    
 }
